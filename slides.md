@@ -22,7 +22,7 @@ transition: fade-out
 mdc: true
 ---
 
-# 3D on the Web!
+# Immerse experience!
 
 Create awesome realtime 3D experiences with Javascript 💚
 
@@ -40,18 +40,18 @@ SLOW DOWN
 transition: fade-out
 ---
 
-# Why 3D on the web
+# Why this experiences on the web
 
 Do we really need it?
 
 <p v-click>But you might want it </p>
 
 <ul>
-<li v-click>Almost all websites are similar</li>
-<li v-click>Unleash your creativity</li>
-<li v-click>Effects impossible with simple JS or CSS</li>
-<li v-click>Clients more engaged... More profit</li>
-<li v-click>Real-time</li>
+  <li v-click>Almost all websites are similar</li>
+  <li v-click>Unleash your creativity</li>
+  <li v-click>Effects impossible with simple JS or CSS</li>
+  <li v-click>Clients more engaged... More profit</li>
+  <li v-click>Real-time</li>
 </ul>
 
 <!--
@@ -64,11 +64,15 @@ transition: fade-out
 
 # I'm talking about this
 
-- https://www.igloo.inc/
+- https://www.gladeye.com/
 
 - https://cornrevolution.resn.global/
 
 - https://activetheory.net/
+
+- https://bizar.ro/
+
+- https://lab.jaimetorrealba.com/chromaticaberration
 
 
 ---
@@ -81,11 +85,11 @@ level: 2
 Every 3D experience needs...
 
 <ol>
-<li v-click>🌐 Scene</li>
-<li v-click>🎥 Camera</li>
-<li v-click>🔩 Renderer</li>
-<li v-click>🎳 An object</li>
-<li v-click>🎬 RenderLoop (optional)</li>
+  <li v-click>🌐 Scene</li>
+  <li v-click>🎥 Camera</li>
+  <li v-click>🔩 Renderer</li>
+  <li v-click>🎳 An object</li>
+  <li v-click>🎬 RenderLoop (optional)</li>
 </ol>
 <br>
 <p v-click>BTW this is multi-platform!</p>
@@ -105,14 +109,14 @@ layout: two-cols
 # Mesh
 
 <div v-click class="px-2">
-<h2>Geometry</h2>
-<img src="./assets/geometry.png" />
+  <h2>Geometry</h2>
+  <img src="./assets/geometry.png" />
 </div>
 
 ::right::
 <div class="mt-16 px-2" v-click>
-<h2>Materials</h2>
-<img src="./assets/materials.jpg" />
+  <h2>Materials</h2>
+  <img src="./assets/materials.jpg" />
 </div>
 
 <!--
@@ -182,7 +186,7 @@ transition: fade-out
 
 # Talk is easy show me the code!
 
-http://play.tresjs.org/
+https://play.tresjs.org/#eNqVVG1v2zYQ/iuEgqEfZpNynBaYlg5ps7bY0KzFmm9VP9DSxWJMkQR58suC/PcdKdmR+5rasiHey3PPHe/uLrv2EF44x9cdZEV2HiqvHLIA2DmmpVk+LzMMZfZHaVTrrEd2x6LLpTRrGdg9u/G2ZU8ukGS3QVTWw5PfR7bv/ELhpTXorf6KuQKDNkQPIdibt9evr2wNOp0qawKyzmv2nJVZg+hCIYSXG75U2HSLLoAnGyQEXtlWRFYEKQNxD8LDTRANyDqIVioj2ogbxFLjjZCrbko/8WLV0cOjrMxKU5pz0adPydIBoXVaItCJsfNR0htlaruZBvUfsEqD9NPKauupUifz+TzVitEnubwHHxxUqNZwKVvwkhXOBoXKGrL/+NuExedTmTGxdzsu2UEc0a4gNMcA+YTFJwJUMuA0NJK4DT6D10u7fQO2BfQ7Vki/DNFxxp9O2P5vHH8U6gNKU0tfX1EVvJKa7mTI8+x1/I5Zp/pHpzHfP5WPuVsj9Vu1bPAL7qcTdhaDFypeJKl2pJjx0+N0hih9jP4SSHAuRjdEx4A7HV8bbPWkNAtb79hd9GspZ2UKllObMeZkXSuz3B8biMQKNsvzX5Jgo2psRueUc8E2jUIgwX1pTqRzPfIPnReyWi297Uzd90jBTvI8BiYY6rbEOJtk/bhMW+n4bbCGBjHBl4OC5q/oA0bZeNai4mE4qtqQPzW6WntuAIVxrRibX5zxU34qahVQRDFZlxnV6jPgfip/Brv3IPic51MDW+SzhyiD9jgYbkCunDSPSeFgmwLskfdC3qroM8ZuPDwKN9pdEOIzoi1+hdCOq0EbkXbMo8s8Mr+Y5fwpIdKegC1vj4s82FFne6h/Arh3+B40GU5raNUjQPemMfkz/kxotRhDRkTq0HtqTQy0ZG/U8rPGpI3rlAb/zsVpPm5QqbXd/J1k6Ds48KsaqFZfkd+GbU/5PTUL+DWV++EqaXYBe/WrD/9QZ42UtNQ7PVzON5T/QrC6ixx7s5c0ikR7ZJfY/pXmjNbCdXi1TZtoSOqIKO4cJOnH/ao89Fov+JQKl+zTdVx+p0oPmc35/FDw+/8BvO6Asg==
 
 <!--
 Let's try to put a model!
@@ -196,14 +200,14 @@ transition: fade-out
 Different to other platforms, there are a huge variety of possibilities with building 3D web experiences!
 
 <ul>
-<li v-click>E-commerce</li>
-<li v-click>Product configurators</li>
-<li v-click>Amazing portfolios</li>
-<li v-click>XR/VR experiences</li>
-<li v-click>Virtual maps / architecture</li>
-<li v-click>3D web apps like CAD or data visualization</li>
-<li v-click>Image processing</li>
-<li v-click>Much more...</li>
+  <li v-click>E-commerce</li>
+  <li v-click>Product configurators</li>
+  <li v-click>Amazing portfolios</li>
+  <li v-click>XR/VR experiences</li>
+  <li v-click>Virtual maps / architecture</li>
+  <li v-click>3D web apps like CAD or data visualization</li>
+  <li v-click>Image processing</li>
+  <li v-click>Much more...</li>
 </ul>
 
 <!--
